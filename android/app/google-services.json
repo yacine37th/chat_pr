@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407522119937",
+    "project_id": "react-native-first-app-chat",
+    "storage_bucket": "react-native-first-app-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407522119937:android:bec4f5f12b48b6facacb00",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407522119937-69uiitr5pch6as6k88nvn6i7amjme0ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ZspJA0JSmhhFgyn19nY7xineUfClX3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407522119937-69uiitr5pch6as6k88nvn6i7amjme0ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
